@@ -3,7 +3,7 @@ import cors from "cors";
 import express from "express";
 import rateLimit from "express-rate-limit";
 import helmet from "helmet";
-import type { ContactResponse } from "@portfolio/shared";
+import type { ContactResponse } from "./contracts.js";
 import { contactSchema } from "./validation.js";
 import type { ContactStore } from "./types.js";
 

@@ -1,4 +1,4 @@
-import type { ContactRequest } from "@portfolio/shared";
+import type { ContactRequest } from "./contracts.js";
 
 export interface ContactRecord extends ContactRequest {
   ipHash?: string;
