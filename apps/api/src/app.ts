@@ -3,6 +3,7 @@ import cors from "cors";
 import express from "express";
 import rateLimit from "express-rate-limit";
 import helmet from "helmet";
+import type { CorsOptions } from "cors";
 import type { ContactResponse } from "./contracts.js";
 import { contactSchema } from "./validation.js";
 import type { ContactStore } from "./types.js";
@@ -16,10 +17,33 @@ function hashIp(ip: string | undefined): string | undefined {
 
 export function createApp(contactStore: ContactStore, corsOrigin: string) {
   const app = express();
+  const allowedOrigins = corsOrigin
+    .split(",")
+    .map((origin) => origin.trim())
+    .filter(Boolean);
+
+  const corsOptions: CorsOptions = {
+    origin(origin, callback) {
+      // Allow requests with no origin (curl, server-to-server)
+      if (!origin) {
+        callback(null, true);
+        return;
+      }
+
+      const allowed = allowedOrigins.some((rule) => {
+        if (rule.startsWith("*.")) {
+          return origin.endsWith(rule.slice(1));
+        }
+        return origin === rule;
+      });
+
+      callback(allowed ? null : new Error("CORS origin not allowed"), allowed);
+    }
+  };
 
   app.set("trust proxy", 1);
   app.use(helmet());
-  app.use(cors({ origin: corsOrigin }));
+  app.use(cors(corsOptions));
   app.use(express.json({ limit: "200kb" }));
 
   app.use(

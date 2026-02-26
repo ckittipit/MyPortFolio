@@ -12,7 +12,8 @@
 4. Add environment variables:
    - `PORT`
    - `DATABASE_URL`
-   - `CORS_ORIGIN`
+   - `CORS_ORIGIN` (comma-separated list supported, wildcard allowed)
+     - Example: `http://localhost:3000,https://my-portfolio.vercel.app,*.vercel.app`
 
 ## Database
 1. Provision PostgreSQL.
