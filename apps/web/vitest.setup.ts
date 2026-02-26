@@ -1,5 +1,6 @@
 import "@testing-library/jest-dom/vitest";
 import { createElement } from "react";
+import type { ReactNode } from "react";
 import { vi } from "vitest";
 
 vi.mock("next/link", () => ({
@@ -7,9 +8,9 @@ vi.mock("next/link", () => ({
     href,
     children,
     ...props
-    }: {
+  }: {
     href: string;
-    children: unknown;
+    children: ReactNode;
   }) => {
     return createElement("a", { href, ...props }, children);
   }
