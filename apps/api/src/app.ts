@@ -31,12 +31,17 @@ export function createApp(contactStore: ContactStore, corsOrigin: string) {
       }
 
       const allowed = allowedOrigins.some((rule) => {
+        if (rule === "*") {
+          return true;
+        }
         if (rule.startsWith("*.")) {
           return origin.endsWith(rule.slice(1));
         }
         return origin === rule;
       });
-
+      if (!allowed) {
+        console.warn(`[cors] blocked origin: ${origin}`);
+      }
       callback(allowed ? null : new Error("CORS origin not allowed"), allowed);
     }
   };
