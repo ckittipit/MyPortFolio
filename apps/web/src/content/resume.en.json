@@ -1,0 +1,167 @@
+{
+  "profile": {
+    "fullName": "Kittipit Chanthataweesup",
+    "title": "Frontend Developer",
+    "email": "ckittipit@gmail.com",
+    "phone": "091-884-4430",
+    "location": "Bangkok, Thailand",
+    "summary": "Passionate and detail-oriented frontend developer with 5+ years of experience building web applications across industries. Strong proficiency in Vue.js, Nuxt.js, React, and modern frontend tooling."
+  },
+  "nav": {
+    "home": "Home",
+    "resume": "Resume",
+    "contact": "Contact",
+    "language": "Language"
+  },
+  "hero": {
+    "heading": "Build polished products with frontend precision",
+    "subheading": "I turn business logic into scalable user interfaces with strong DX and clean architecture.",
+    "ctaPrimary": "View Resume",
+    "ctaSecondary": "Contact Me"
+  },
+  "about": {
+    "heading": "About Me",
+    "body": "I focus on performance, maintainability, and clear collaboration. I enjoy shipping practical solutions that users can trust and teams can extend quickly."
+  },
+  "sections": {
+    "experience": "Experience",
+    "skills": "Technical Skills",
+    "projects": "Selected Projects",
+    "education": "Education",
+    "certifications": "Certifications",
+    "onlineProfiles": "Online Profiles",
+    "resume": "Resume",
+    "contact": "Contact"
+  },
+  "experience": [
+    {
+      "company": "Datashieldltd Co., Ltd.",
+      "role": "Frontend Developer",
+      "period": "Aug 2025 - Present",
+      "highlights": [
+        "Developed landing page using Nuxt.js + TypeScript + TailwindCSS with SEO configuration.",
+        "Built backend management system for National Telecom using Vue.js 3 + TailwindCSS.",
+        "Implemented login flow with reCAPTCHA and 2FA authentication."
+      ]
+    },
+    {
+      "company": "Gosoft (Thailand) Co., Ltd.",
+      "role": "Frontend Developer",
+      "period": "Mar 2023 - Feb 2024",
+      "highlights": [
+        "Rewrote legacy CRM system using Vue.js 3.",
+        "Improved performance and maintainability.",
+        "Collaborated with PO, UX/UI designers, QA, and mentored junior developers."
+      ]
+    },
+    {
+      "company": "The Minor Food Group PCL",
+      "role": "Web Developer",
+      "period": "Jul 2022 - Feb 2023",
+      "highlights": [
+        "Developed food delivery frontend using AngularJS + Laravel.",
+        "Maintained websites for food and beverage brands using WordPress."
+      ]
+    },
+    {
+      "company": "Fillgoods Technology Co., Ltd.",
+      "role": "Frontend Developer",
+      "period": "Mar 2022 - Jun 2022",
+      "highlights": [
+        "Built ERP frontend using Vue.js and Nuxt.js.",
+        "Refactored and improved existing systems."
+      ]
+    },
+    {
+      "company": "Rudy Technology Co., Ltd.",
+      "role": "Frontend Developer",
+      "period": "Apr 2019 - Feb 2022",
+      "highlights": [
+        "Built ERP systems for construction and finance industries.",
+        "Used Vue.js and Nuxt.js for multi-module apps.",
+        "Supported junior developers and delivered solutions to international clients."
+      ]
+    },
+    {
+      "company": "Thai Life Insurance PCL",
+      "role": "Java Programmer",
+      "period": "Nov 2018 - Apr 2019",
+      "highlights": [
+        "Refactored core insurance systems using Java."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Languages & Tools",
+      "items": ["JavaScript (ES6+)", "TypeScript", "HTML", "CSS", "SQL", "PHP", "Java"]
+    },
+    {
+      "category": "Frameworks & Libraries",
+      "items": ["Vue.js", "Nuxt.js", "React", "AngularJS", "jQuery", "Laravel"]
+    },
+    {
+      "category": "UI & Styling",
+      "items": ["Tailwind CSS", "Bootstrap", "Vuetify", "PrimeVue", "Element UI", "Bootstrap-Vue"]
+    },
+    {
+      "category": "Platforms",
+      "items": ["Git", "REST API", "WordPress", "Responsive Design"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "National Telecom Admin Platform",
+      "description": "Management platform with secure login, role control, and internal workflows.",
+      "stack": ["Vue.js 3", "TypeScript", "TailwindCSS"]
+    },
+    {
+      "name": "Nuxt SEO Landing Page",
+      "description": "Landing page optimized for SEO and conversion.",
+      "stack": ["Nuxt.js", "TypeScript", "TailwindCSS"]
+    },
+    {
+      "name": "Legacy CRM Modernization",
+      "description": "Migration from legacy frontend to modern Vue.js architecture.",
+      "stack": ["Vue.js 3", "Pinia", "REST API"]
+    },
+    {
+      "name": "Topplusfood88 OEM Food Factory Landing Page",
+      "description": "Developed landing page for OEM canned food factory with SEO optimization for Google indexing.",
+      "stack": ["Nuxt.js", "TailwindCSS", "SEO"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Kasetsart University",
+      "degree": "Bachelor of Computer Science",
+      "period": "2012 - 2018"
+    }
+  ],
+  "certifications": [
+    "General English - Intermediate Level, Greenwich College Sydney (2024)",
+    "English for Business, Greenwich College Sydney (2024)"
+  ],
+  "onlineProfiles": [
+    "LinkedIn: https://www.linkedin.com/in/kittipit-chanthataweesup/"
+  ],
+  "contact": {
+    "heading": "Let's work together",
+    "body": "Share your idea or role details. I will get back to you shortly.",
+    "labels": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message",
+      "submitting": "Sending..."
+    },
+    "success": "Thanks! Your message was received.",
+    "error": "Unable to send message right now. Please try again later."
+  },
+  "resume": {
+    "heading": "Resume Overview",
+    "body": "Review key highlights below, or download the original PDF.",
+    "download": "Download Resume (PDF)"
+  }
+}

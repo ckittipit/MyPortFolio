@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="1120" viewBox="0 0 840 1120" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a2a4f"/>
+      <stop offset="100%" stop-color="#08101f"/>
+    </linearGradient>
+  </defs>
+  <rect width="840" height="1120" fill="url(#bg)"/>
+  <circle cx="420" cy="380" r="170" fill="#243b6f"/>
+  <path d="M210 930c45-180 140-260 210-260s165 80 210 260" stroke="#3f5f9f" stroke-width="36" stroke-linecap="round"/>
+  <text x="50%" y="88%" text-anchor="middle" fill="#8fb3ff" font-family="Arial, sans-serif" font-size="32">Add your real profile photo at</text>
+  <text x="50%" y="92%" text-anchor="middle" fill="#8fb3ff" font-family="Arial, sans-serif" font-size="32">/public/profile/profile.jpg</text>
+</svg>

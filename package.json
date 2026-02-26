@@ -1,0 +1,18 @@
+{
+  "name": "myportfolio-monorepo",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace @portfolio/api & npm run dev --workspace @portfolio/web",
+    "dev:web": "npm run dev --workspace @portfolio/web",
+    "dev:api": "npm run dev --workspace @portfolio/api",
+    "build": "npm run build --workspace @portfolio/shared && npm run build --workspace @portfolio/api && npm run build --workspace @portfolio/web",
+    "test": "npm run test --workspace @portfolio/api && npm run test --workspace @portfolio/web"
+  },
+  "dependencies": {
+    "psql": "^0.0.1"
+  }
+}

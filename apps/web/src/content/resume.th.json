@@ -1,0 +1,167 @@
+{
+  "profile": {
+    "fullName": "กิตติพิชญ์ จันทร์ทาทวีทรัพย์",
+    "title": "Frontend Developer",
+    "email": "ckittipit@gmail.com",
+    "phone": "091-884-4430",
+    "location": "กรุงเทพมหานคร, ประเทศไทย",
+    "summary": "Frontend Developer ที่ใส่ใจรายละเอียด มีประสบการณ์มากกว่า 5 ปีในการพัฒนาเว็บแอปพลิเคชันในหลายอุตสาหกรรม เชี่ยวชาญ Vue.js, Nuxt.js, React และเครื่องมือฝั่ง frontend สมัยใหม่"
+  },
+  "nav": {
+    "home": "หน้าแรก",
+    "resume": "เรซูเม่",
+    "contact": "ติดต่อ",
+    "language": "ภาษา"
+  },
+  "hero": {
+    "heading": "พัฒนาโปรดักต์คุณภาพด้วยความแม่นยำด้าน Frontend",
+    "subheading": "เปลี่ยน business logic ให้เป็น UI ที่ขยายต่อได้ ดูแลรักษาง่าย และใช้งานได้จริง",
+    "ctaPrimary": "ดูเรซูเม่",
+    "ctaSecondary": "ติดต่อผม"
+  },
+  "about": {
+    "heading": "เกี่ยวกับผม",
+    "body": "ผมให้ความสำคัญกับ performance, maintainability และการทำงานร่วมทีมอย่างชัดเจน มุ่งเน้นการส่งมอบงานที่ใช้งานได้จริงและต่อยอดได้ในระยะยาว"
+  },
+  "sections": {
+    "experience": "ประสบการณ์ทำงาน",
+    "skills": "ทักษะทางเทคนิค",
+    "projects": "ผลงานเด่น",
+    "education": "การศึกษา",
+    "certifications": "ใบรับรอง",
+    "onlineProfiles": "โปรไฟล์ออนไลน์",
+    "resume": "เรซูเม่",
+    "contact": "ติดต่อ"
+  },
+  "experience": [
+    {
+      "company": "Datashieldltd Co., Ltd.",
+      "role": "Frontend Developer",
+      "period": "ส.ค. 2025 - ปัจจุบัน",
+      "highlights": [
+        "พัฒนา landing page ด้วย Nuxt.js + TypeScript + TailwindCSS พร้อมตั้งค่า SEO",
+        "พัฒนาระบบจัดการหลังบ้านสำหรับ National Telecom ด้วย Vue.js 3 + TailwindCSS",
+        "พัฒนาระบบเข้าสู่ระบบร่วมกับ reCAPTCHA และ 2FA"
+      ]
+    },
+    {
+      "company": "Gosoft (Thailand) Co., Ltd.",
+      "role": "Frontend Developer",
+      "period": "มี.ค. 2023 - ก.พ. 2024",
+      "highlights": [
+        "ปรับปรุงระบบ CRM เดิมใหม่ด้วย Vue.js 3",
+        "เพิ่มประสิทธิภาพและความง่ายในการดูแลรักษา",
+        "ทำงานร่วมกับ PO, UX/UI, QA และดูแลนักพัฒนารุ่นน้อง"
+      ]
+    },
+    {
+      "company": "The Minor Food Group PCL",
+      "role": "Web Developer",
+      "period": "ก.ค. 2022 - ก.พ. 2023",
+      "highlights": [
+        "พัฒนา frontend ระบบ food delivery ด้วย AngularJS + Laravel",
+        "ดูแลเว็บไซต์แบรนด์อาหารและเครื่องดื่มด้วย WordPress"
+      ]
+    },
+    {
+      "company": "Fillgoods Technology Co., Ltd.",
+      "role": "Frontend Developer",
+      "period": "มี.ค. 2022 - มิ.ย. 2022",
+      "highlights": [
+        "พัฒนา ERP frontend ด้วย Vue.js และ Nuxt.js",
+        "ปรับโครงสร้างและพัฒนาระบบเดิมให้ดีขึ้น"
+      ]
+    },
+    {
+      "company": "Rudy Technology Co., Ltd.",
+      "role": "Frontend Developer",
+      "period": "เม.ย. 2019 - ก.พ. 2022",
+      "highlights": [
+        "พัฒนาระบบ ERP สำหรับอุตสาหกรรมก่อสร้างและการเงิน",
+        "ใช้ Vue.js และ Nuxt.js สำหรับแอปหลายโมดูล",
+        "สนับสนุนนักพัฒนารุ่นน้องและส่งมอบงานให้ลูกค้าต่างประเทศ"
+      ]
+    },
+    {
+      "company": "Thai Life Insurance PCL",
+      "role": "Java Programmer",
+      "period": "พ.ย. 2018 - เม.ย. 2019",
+      "highlights": [
+        "ปรับปรุงระบบหลักด้านประกันด้วยภาษา Java"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "ภาษาและเครื่องมือ",
+      "items": ["JavaScript (ES6+)", "TypeScript", "HTML", "CSS", "SQL", "PHP", "Java"]
+    },
+    {
+      "category": "เฟรมเวิร์กและไลบรารี",
+      "items": ["Vue.js", "Nuxt.js", "React", "AngularJS", "jQuery", "Laravel"]
+    },
+    {
+      "category": "UI และการจัดสไตล์",
+      "items": ["Tailwind CSS", "Bootstrap", "Vuetify", "PrimeVue", "Element UI", "Bootstrap-Vue"]
+    },
+    {
+      "category": "แพลตฟอร์ม",
+      "items": ["Git", "REST API", "WordPress", "Responsive Design"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "National Telecom Admin Platform",
+      "description": "แพลตฟอร์มจัดการหลังบ้าน พร้อมระบบยืนยันตัวตนและ workflow ภายใน",
+      "stack": ["Vue.js 3", "TypeScript", "TailwindCSS"]
+    },
+    {
+      "name": "Nuxt SEO Landing Page",
+      "description": "Landing page ที่ปรับ SEO และ conversion",
+      "stack": ["Nuxt.js", "TypeScript", "TailwindCSS"]
+    },
+    {
+      "name": "Legacy CRM Modernization",
+      "description": "ย้ายระบบ CRM เดิมสู่โครงสร้าง Vue.js สมัยใหม่",
+      "stack": ["Vue.js 3", "Pinia", "REST API"]
+    },
+    {
+      "name": "Topplusfood88 OEM Food Factory Landing Page",
+      "description": "พัฒนาเว็บไซต์ Landing Page สำหรับโรงงาน OEM อาหารกระป๋อง พร้อมปรับ SEO สำหรับ Google",
+      "stack": ["Nuxt.js", "TailwindCSS", "SEO"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Kasetsart University",
+      "degree": "Bachelor of Computer Science",
+      "period": "2012 - 2018"
+    }
+  ],
+  "certifications": [
+    "General English - Intermediate Level, Greenwich College Sydney (2024)",
+    "English for Business, Greenwich College Sydney (2024)"
+  ],
+  "onlineProfiles": [
+    "LinkedIn: https://www.linkedin.com/in/kittipit-chanthataweesup/"
+  ],
+  "contact": {
+    "heading": "มาร่วมงานกัน",
+    "body": "ส่งรายละเอียดโปรเจกต์หรือตำแหน่งงานมาได้เลย ผมจะติดต่อกลับโดยเร็ว",
+    "labels": {
+      "name": "ชื่อ",
+      "email": "อีเมล",
+      "subject": "หัวข้อ",
+      "message": "ข้อความ",
+      "submit": "ส่งข้อความ",
+      "submitting": "กำลังส่ง..."
+    },
+    "success": "ขอบคุณครับ รับข้อความเรียบร้อยแล้ว",
+    "error": "ยังไม่สามารถส่งข้อความได้ในขณะนี้ กรุณาลองใหม่อีกครั้ง"
+  },
+  "resume": {
+    "heading": "สรุปเรซูเม่",
+    "body": "ดูข้อมูลสำคัญด้านล่าง หรือดาวน์โหลดไฟล์ PDF ต้นฉบับ",
+    "download": "ดาวน์โหลดเรซูเม่ (PDF)"
+  }
+}

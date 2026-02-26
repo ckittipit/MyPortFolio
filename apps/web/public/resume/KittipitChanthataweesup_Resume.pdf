@@ -1,0 +1,357 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 10 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 4268
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 694 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (Kittipit Chanthataweesup) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 680 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (Frontend Developer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 660 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (Phone: 091-884-4430 | Email: ckittipit@gmail.com) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 640 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (Location: Bangkok, Thailand) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 622 cm
+Q
+q
+1 0 0 1 78 594 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (Professional Summary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 532 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 46 Tm /F1 10 Tf 14 TL (Passionate and detail-oriented frontend developer with 5+ years of experience building web) Tj T* (applications across various industries. Strong proficiency in Vue.js, Nuxt.js, React, and modern) Tj T* (frontend tools. Known for clear communication, team collaboration, and the ability to understand) Tj T* (business logic to deliver scalable solutions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 504 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (Technical Skills) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 484 cm
+q
+BT 1 0 0 1 0 4 Tm 14 TL /F2 10 Tf 0 0 0 rg (Languages & Tools:) Tj /F1 10 Tf ( JavaScript \(ES6+\), TypeScript, HTML, CSS, SQL, PHP, Java) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 464 cm
+q
+BT 1 0 0 1 0 4 Tm 14 TL /F2 10 Tf 0 0 0 rg (Frameworks & Libraries:) Tj /F1 10 Tf ( Vue.js, Nuxt.js, React, AngularJS, jQuery, Laravel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 444 cm
+q
+BT 1 0 0 1 0 4 Tm 14 TL /F2 10 Tf 0 0 0 rg (UI & Styling:) Tj /F1 10 Tf ( Tailwind CSS, Bootstrap, Vuetify, PrimeVue, Element UI, Bootstrap-Vue) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 424 cm
+q
+BT 1 0 0 1 0 4 Tm 14 TL /F2 10 Tf 0 0 0 rg (Tools & Platforms:) Tj /F1 10 Tf ( Git, REST API, Wordpress, Responsive Design) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 396 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (Work Experience) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 376 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 10 Tf 14 TL (Datashieldltd Co., Ltd. \227 Frontend Developer \(Aug 2025 - Present\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 356 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (- Developed landing page using Nuxt.js + TypeScript + TailwindCSS with SEO configuration.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 336 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (- Built backend management system for National Telecom using Vue.js 3 + TailwindCSS.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 316 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (- Implemented login system with reCAPTCHA verification.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 296 cm
+q
+BT 1 0 0 1 0 4 Tm 14 TL /F1 10 Tf 0 0 0 rg (- Developed HRM & CRM systems using Vue.js 3 + TypeScript + Pinia.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (- Implemented 2FA authentication flow.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 256 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 10 Tf 14 TL (Gosoft \(Thailand\) Co., Ltd. \227 Frontend Developer \(Mar 2023 - Feb 2024\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (- Rewrote legacy CRM system using Vue.js 3.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 216 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (- Improved performance and maintainability.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 196 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (- Collaborated with PO, UX/UI designers, QA.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 176 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (- Mentored junior developers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 156 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 10 Tf 14 TL (The Minor Food Group PCL \227 Web Developer \(Jul 2022 - Feb 2023\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 136 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (- Developed food delivery frontend using AngularJS + Laravel.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 116 cm
+q
+BT 1 0 0 1 0 4 Tm 14 TL /F1 10 Tf 0 0 0 rg (- Maintained websites for food & beverage brands using WordPress.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 96 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 10 Tf 14 TL (Fillgoods Technology Co., Ltd. \227 Frontend Developer \(Jul 2022 - Feb 2023\)) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+1 1 1 RG
+n
+335.93 96.93 105.82 12.5 re
+B*
+0 0 0 rg
+BT
+/F2-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 336.93 100 Tm
+(\050Mar 2022 \055 Jun 2022\051) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/Contents 11 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font 12 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+11 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 970
+>>
+stream
+GatU0?#SF^&:EYBlsip*^kMj2>G2V)V$RT+T6Rp#COGc%kMDaQo[e<5L.WVPEJQ/KrnNp4SK/5%FEkbb9E@T`[&4si4p3Tb]iGYq),,Y%T8'iTE\N/4a*gY-3lNngC=$nUs%;oZ>#smP<EtNA.i@AQ=I;4q+kB7hPS)u2b8's!Z*cL*keTXc@d1IH$,IO3:Cd4+*O"Du_mA9n0P7"Y)P[@jVjUR)]"o2#XJ93I`aX5q]3bftIuXDk7lpu19V`;9[=b`!2.:*l(+al`!7QQ=?Z:WaAZ0$_nN#(VGJ"m)Jgp\n9Aa)_<\iuhE%(VW+]]LJ-&pH#BXs:[=tu@;L'V$R3PFBr672^`1=(^;n^\-QV)0!S?_o6p"TllQ'*QUekT\>.V(JrSkE6KnF;RS@-pka/kU^8/aIP?rX<LXqC<>6o'+bM2dT5tOY3"Ue*sDu20]On)]em8P"u7:H8f)ne)[:Ac<gok!@A*q6E>BIUKar"#[a9.KF&sqo87ti\5ji$ZEm5WBC/MQk4]0@Dl504oN@7CJZs$sQ9dPHo'B5;F.a(4t@\ogXYZ1L>nf=TL&(@9G*R)SGY/r\.@24@M9cX:R1d4;p"C_n+&Q#_LN_7BgUj%hB:om+_bq8+aWt`6+3/^V$)d@3D_j32(?sILs+i]F/ZWNR5j:P@'H-6/mOq@/s;edV9,ba:aX(l[ghYS<JU%Sl(b0#1(b"$;u@g9&Dg;:1<3FKAQQ$sRT0VJM]:bfq9RcP4hYQuZ`aI(-Yg-)(Zcu!:c$?g@amr*H0g@CVt9ip&`4/c*Wc*6Y5U8DIjaHb[1Thb#]ih[K3AeAY#S5$Mg9pAj'-DZ/'8G6<T,)Nq+J%p3%na!NK*>geHNEj]#0csud&)TU'7k"_u78V2sAH6g6Fikd`3ofci7ecHh&o0:EgMUr=gQj7ZEnLe"g?,^>Rp4&lDQgp18XhEW[YQ9Vg.-O`nIMhVP&C~>
+endstream
+endobj
+12 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+>>
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000120 00000 n 
+0000000169 00000 n 
+0000000414 00000 n 
+0000004734 00000 n 
+0000004841 00000 n 
+0000004948 00000 n 
+0000005060 00000 n 
+0000005172 00000 n 
+0000005364 00000 n 
+0000006426 00000 n 
+trailer
+<<
+/Size 13
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+6468
+%%EOF
