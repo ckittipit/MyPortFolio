@@ -4,7 +4,7 @@ export function ProfilePhotoCard() {
   return (
     <div className="photo-card reveal">
       <Image
-        src="/profile/profile-placeholder.svg"
+        src="/profile/profile.jpg"
         alt="Kittipit profile"
         width={420}
         height={560}
